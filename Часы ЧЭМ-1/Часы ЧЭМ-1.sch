@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:Часы ЧЭМ-1-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -15,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue HL1
+L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue-Часы-ЧЭМ-1-rescue HL1
 U 1 1 5FB150F2
 P 8000 1200
 F 0 "HL1" H 8175 1425 50  0000 C CNN
@@ -55,7 +54,7 @@ Wire Wire Line
 	7750 1200 7900 1200
 NoConn ~ 7900 1900
 $Comp
-L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue HL2
+L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue-Часы-ЧЭМ-1-rescue HL2
 U 1 1 5FB15AA0
 P 8000 2300
 F 0 "HL2" H 8175 2525 50  0000 C CNN
@@ -95,7 +94,7 @@ Wire Wire Line
 	7750 2300 7900 2300
 NoConn ~ 7900 3000
 $Comp
-L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue HL3
+L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue-Часы-ЧЭМ-1-rescue HL3
 U 1 1 5FB15C7E
 P 8000 3900
 F 0 "HL3" H 8175 4125 50  0000 C CNN
@@ -683,7 +682,7 @@ Wire Wire Line
 Wire Wire Line
 	5250 2750 5900 2750
 $Comp
-L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue HL5
+L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue-Часы-ЧЭМ-1-rescue HL5
 U 1 1 5F92D8E6
 P 9800 3900
 F 0 "HL5" H 9975 4125 50  0000 C CNN
@@ -723,7 +722,7 @@ Wire Wire Line
 	9550 3900 9700 3900
 NoConn ~ 9700 4600
 $Comp
-L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue HL6
+L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue-Часы-ЧЭМ-1-rescue HL6
 U 1 1 5F92D8FC
 P 9800 5000
 F 0 "HL6" H 9975 5225 50  0000 C CNN
@@ -814,7 +813,7 @@ Connection ~ 2150 2550
 Wire Wire Line
 	2150 2550 2150 2650
 $Comp
-L Часы-ЧЭМ-1-rescue:Conn_01x16_Female-conn1 XS1
+L Часы-ЧЭМ-1-rescue:Conn_01x16_Female-conn1-Часы-ЧЭМ-1-rescue XS1
 U 1 1 5F957B59
 P 6050 4550
 F 0 "XS1" H 5850 3650 50  0000 L CNN
@@ -922,7 +921,7 @@ Wire Wire Line
 Wire Wire Line
 	5850 5350 5700 5350
 $Comp
-L Часы-ЧЭМ-1-rescue:Conn_01x16_Male-conn1 XP1
+L Часы-ЧЭМ-1-rescue:Conn_01x16_Male-conn1-Часы-ЧЭМ-1-rescue XP1
 U 1 1 5F9D4AA6
 P 6050 4550
 F 0 "XP1" H 6250 3650 50  0000 C CNN
@@ -1326,7 +1325,7 @@ Connection ~ 8500 4200
 Wire Wire Line
 	8500 4200 8700 4200
 $Comp
-L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue HL4
+L Часы-ЧЭМ-1-rescue:АЛС321А1-AAV_SCH-Часы-ЧЭМ-1-rescue-Часы-ЧЭМ-1-rescue HL4
 U 1 1 5FB15FF5
 P 8000 5000
 F 0 "HL4" H 8175 5225 50  0000 C CNN
@@ -1598,7 +1597,7 @@ K4O
 Text Label 6450 5350 2    50   ~ 0
 K5O
 $Comp
-L Часы-ЧЭМ-1-rescue:DS3231SN-AAV_SCH-Часы-ЧЭМ-1-rescue DD1
+L Часы-ЧЭМ-1-rescue:DS3231SN-AAV_SCH-Часы-ЧЭМ-1-rescue-Часы-ЧЭМ-1-rescue DD1
 U 1 1 5F92D3F1
 P 1800 3500
 F 0 "DD1" H 3150 3850 50  0000 L CNN
